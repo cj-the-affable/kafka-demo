@@ -1,0 +1,10 @@
+C:\dev\kafka\demo\Kafka.Demo.Models\bin\Debug\netcoreapp3.1\Kafka.Demo.Models.deps.json
+C:\dev\kafka\demo\Kafka.Demo.Models\bin\Debug\netcoreapp3.1\Kafka.Demo.Models.dll
+C:\dev\kafka\demo\Kafka.Demo.Models\bin\Debug\netcoreapp3.1\Kafka.Demo.Models.pdb
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.csproj.AssemblyReference.cache
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.AssemblyInfoInputs.cache
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.AssemblyInfo.cs
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.csproj.CoreCompileInputs.cache
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.dll
+C:\dev\kafka\demo\Kafka.Demo.Models\obj\Debug\netcoreapp3.1\Kafka.Demo.Models.pdb

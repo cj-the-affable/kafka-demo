@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zTj6dfN9SlHEBG8vSBI5u0SCDToH7vuZ9oMzkP3i0/hf8t1lJVrN8wKQonp0Pe6zv3NnlZ0mk4yquFViSoQOsA==",
+  "success": true,
+  "projectFilePath": "C:\\dev\\kafka\\demo\\src\\Kafka.Demo.Models\\Kafka.Demo.Models.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\cory.johnson\\.nuget\\packages\\confluent.kafka\\1.8.1\\confluent.kafka.1.8.1.nupkg.sha512",
+    "C:\\Users\\cory.johnson\\.nuget\\packages\\librdkafka.redist\\1.8.0\\librdkafka.redist.1.8.0.nupkg.sha512",
+    "C:\\Users\\cory.johnson\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Kafka.Demo.KSqlConsumer
+build_property.ProjectDir = C:\dev\kafka\demo\src\Kafka.Demo.KSqlConsumer\
